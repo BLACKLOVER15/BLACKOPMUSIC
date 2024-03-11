@@ -13,10 +13,10 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME" , "l_OP_ll_MUSIC_l_BOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "MusicScam_Black_Bot)
 
 # Don't Add style font 
-BOT_NAME = getenv("BOT_NAME" , "˹𝐐ᴜᴇᴇɴ ꭙ 𝐌ᴜsɪᴄ˼ ♪")
+BOT_NAME = getenv("BOT_NAME" , "˹𝐁ʟᴀᴄᴋ ꭙ 𝐌ᴜsɪᴄ˼ ♪")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
@@ -36,19 +36,19 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
     # Don't edit variables below this line #
-SUDO_USERS = [6924946313]
+SUDO_USERS = [6950353753]
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/KING0712/KING_OP_BOT",
+    "https://github.com/BLACKLOVER15/BLACKOPMUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/l_ABOUT_l_KING_l")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+uF_GVlNuJ_dkZGVl")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/QuizBot_All_Exam")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Exampur15")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", True))
@@ -104,10 +104,10 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/94e6478ff81fdd8f2a20a.jpg"
+    "START_IMG_URL", "https://te.legra.ph/file/964f4967f2f4ce18d5df0.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/94e6478ff81fdd8f2a20a.jpg"
+    "PING_IMG_URL", "https://te.legra.ph/file/4b91ba6ee72587d382c61.jpg"
 )
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/f1e2fce89f46e84e46207.jpg"
 STATS_IMG_URL = "https://te.legra.ph/file/f1e2fce89f46e84e46207.jpg"
