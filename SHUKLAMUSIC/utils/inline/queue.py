@@ -66,8 +66,8 @@ def queue_back_markup(_, CPLAY):
 def aq_markup(_, chat_id):
     buttons = [
         [
-            InlineKeyboardButton(text="🤍 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 🖤", url="https://t.me/+uF_GVlNuJ_dkZGVl"),
-            InlineKeyboardButton(text="🖤 𝐎𝐖𝐍𝐄𝐑 🤍", url="https://t.me/l_MR_ll_KING_l"),
+            InlineKeyboardButton(text="🤍 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 🖤", url="https://t.me/All_Exam_Music_Support"),
+            InlineKeyboardButton(text="🖤 𝐎𝐖𝐍𝐄𝐑 🤍", url="https://t.me/Blacklover_uff"),
         ],
     ]
     return buttons
