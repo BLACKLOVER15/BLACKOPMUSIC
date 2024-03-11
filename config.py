@@ -13,7 +13,7 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME" , "MusicScam_Black_Bot)
+BOT_USERNAME = getenv("BOT_USERNAME" , "MusicScam_Black_Bot")
 
 # Don't Add style font 
 BOT_NAME = getenv("BOT_NAME" , "˹𝐁ʟᴀᴄᴋ ꭙ 𝐌ᴜsɪᴄ˼ ♪")
