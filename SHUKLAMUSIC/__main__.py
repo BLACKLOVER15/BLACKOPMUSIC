@@ -41,12 +41,12 @@ async def init():
     await SHUKLA.start()
     await SHUKLA.decorators()
     LOGGER("SHUKLAMUSIC").info(
-        "╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝐌𝐀𝐃𝐄 𝐁𝐘 𝐊𝐈𝐍𝐆♨️\n╚═════ஜ۩۞۩ஜ════╝"
+        "╔═════ஜ۩۞۩ஜ════╗\n  ♨️Made By BlackLover♨️\n╚═════ஜ۩۞۩ஜ════╝"
     )
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("SHUKLAMUSIC").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝐌𝐀𝐃𝐄 𝐁𝐘 𝐊𝐈𝐍𝐆♨️\n╚═════ஜ۩۞۩ஜ════╝")
+    LOGGER("SHUKLAMUSIC").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️Made by Blacklover♨️\n╚═════ஜ۩۞۩ஜ════╝")
     
 
 if __name__ == "__main__":
