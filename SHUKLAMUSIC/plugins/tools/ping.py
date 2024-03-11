@@ -27,7 +27,7 @@ async def make_carbon(code):
 @app.on_message(filters.command("ping", prefixes=["/", "!", "%", ",", "", ".", "@", "#"]) & ~BANNED_USERS)
 @language
 async def ping_com(client, message: Message, _):
-    PING_IMG_URL = "https://telegra.ph/file/7bb907999ea7156227283.jpg"
+    PING_IMG_URL = "https://te.legra.ph/file/4b91ba6ee72587d382c61.jpg"
     captionss = "**🥀ᴘɪɴɢɪɴɢ ᴏᴜʀ sᴇʀᴠᴇʀ ᴡᴀɪᴛ.**"
     response = await message.reply_photo(PING_IMG_URL, caption=(captionss))
     await asyncio.sleep(1)
@@ -50,7 +50,7 @@ async def ping_com(client, message: Message, _):
     resp = (datetime.now() - start).microseconds / 1000
     text =  _["ping_2"].format(resp, app.name, UP, RAM, CPU, DISK, pytgping)
     carbon = await make_carbon(text)
-    captions = "**ㅤ  🏓 ᴘɪɴɢ...ᴘᴏɴɢ...ᴘɪɴɢ✨\nㅤ  🎸 𝐌𝐑... 𝐊𝐈𝐍𝐆...ʙᴀʙʏ💞**"
+    captions = "**ㅤ  🏓 ᴘɪɴɢ...ᴘᴏɴɢ...ᴘɪɴɢ✨\nㅤ  🎸 Black...Lover...ʙᴀʙʏ💞**"
     await message.reply_photo((carbon), caption=captions,
     reply_markup=InlineKeyboardMarkup(
             [
@@ -63,10 +63,10 @@ async def ping_com(client, message: Message, _):
         ],
         [
             InlineKeyboardButton(
-                text="✦ ɢʀᴏᴜᴘ ✦", url=f"https://t.me/+uF_GVlNuJ_dkZGVl",
+                text="✦ ɢʀᴏᴜᴘ ✦", url=f"https://t.me/Exampur15",
             ),
             InlineKeyboardButton(
-                text="✧ ᴍᴏʀᴇ ✧", url=f"https://t.me/l_ABOUT_l_KING_l",
+                text="✧ ᴍᴏʀᴇ ✧", url=f"https://t.me/All_Exam_Music_Support",
             )
         ],
         [
