@@ -50,7 +50,7 @@
       },
       "HEROKU_APP_NAME": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐀𝐏𝐏 𝐍𝐀𝐌𝐄 𝐖𝐇𝐈𝐂𝐇 𝐅𝐈𝐋𝐋𝐄𝐃 𝐈𝐍 𝐘𝐎𝐈𝐑 𝐅𝐈𝐑𝐒𝐓 𝐋𝐈𝐍𝐄 (𝐀𝐏𝐏 𝐍𝐀𝐌𝐄).",
-        "value": "",
+        "value": "Blacklover",
         "required": false
       },
       "LOGGER_ID": {
