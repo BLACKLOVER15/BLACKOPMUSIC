@@ -35,7 +35,7 @@ def private_panel(_):
         [
             InlineKeyboardButton(text="🍬 sᴜᴘᴘᴏꝛᴛ 🍬", url=config.SUPPORT_CHAT),
             InlineKeyboardButton(text="🍹 ᴜᴘᴅᴀᴛᴇ 🍹", url=config.SUPPORT_CHANNEL),
-            InlineKeyboardButton(text="🍡 sᴏᴜꝛᴄᴇ 🍡", url=f"https://github.com/KING0712/KING_OP_BOT/fork"),
+            InlineKeyboardButton(text="🍡 ʙsᴅᴋ ʀᴇᴘᴏ ʟᴇʟᴇ 🍡", url=f"https://t.me/saikosaiyan"),
         ],
         [
             InlineKeyboardButton(text="🏩 ʜᴇʟᴘ ᴧиᴅ ᴄᴏᴍᴍᴧɴᴅs 🏩", callback_data="settings_back_helper")
