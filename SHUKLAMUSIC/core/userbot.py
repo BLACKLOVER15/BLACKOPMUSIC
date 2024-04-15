@@ -11,7 +11,7 @@ from ..logging import LOGGER
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 MONGO_DB_URI = getenv("MONGO_DB_URI", "")
 STRING_SESSION = getenv("STRING_SESSION", "")
-TEST_ID = int("-1002035613345")
+TEST_ID = int("-1001519711749")
 
 assistants = []
 assistantids = []
@@ -62,10 +62,10 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("Exampur20")
+                await self.one.join_chat("SSC_MAKER_QUIZ")
                 await self.one.join_chat("BlackMusicSupport")
                 await self.one.join_chat("Herokusellers")
-                await self.one.join_chat("QuizBot_All_Exam")
+                await self.one.join_chat("QuizBot_Exampur")
                 await self.one.join_chat("All_Exam_Music_Support")
             except:
                 pass
@@ -94,10 +94,10 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("Exampur20")
+                await self.two.join_chat("SSC_MAKER_QUIZ")
                 await self.two.join_chat("BlackMusicSupport")
                 await self.two.join_chat("Herokusellers")
-                await self.two.join_chat("QuizBot_All_Exam")
+                await self.two.join_chat("QuizBot_Exampur")
             except:
                 pass
             assistants.append(2)
@@ -117,10 +117,10 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("Exampur20")
+                await self.three.join_chat("SSC_MAKER_QUIZ")
                 await self.three.join_chat("BlackMusicSupport")
                 await self.three.join_chat("Herokusellers")
-                await self.three.join_chat("QuizBot_All_Exam")
+                await self.three.join_chat("QuizBot_Exampur")
             except:
                 pass
             assistants.append(3)
@@ -140,10 +140,10 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("Exampur20")
+                await self.four.join_chat("SSC_MAKER_QUIZ")
                 await self.four.join_chat("BlackMusicSupport")
                 await self.four.join_chat("Herokusellers")
-                await self.four.join_chat("QuizBot_All_Exam")
+                await self.four.join_chat("QuizBot_Exampur")
             except:
                 pass
             assistants.append(4)
@@ -163,10 +163,10 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("Exampur20")
+                await self.five.join_chat("SSC_MAKER_QUIZ")
                 await self.five.join_chat("BlackMusicSupport")
                 await self.five.join_chat("Herokusellers")
-                await self.five.join_chat("QuizBot_All_Exam")
+                await self.five.join_chat("QuizBot_Exampur")
             except:
                 pass
             assistants.append(5)
