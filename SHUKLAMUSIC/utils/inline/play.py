@@ -133,7 +133,7 @@ def stream_markup(_, chat_id):
         [
             InlineKeyboardButton(
                 text=f"⛦ ᴊᴏɪɴ ⛦",
-              url="https://t.me/Exampur15",
+              url="https://t.me/QuizBot_Exampur",
             ),
         ],
     ]
@@ -262,7 +262,7 @@ def queue_markup(_, videoid, chat_id):
         [
             InlineKeyboardButton(
                 text=f"⛦ ᴊᴏɪɴ ⛦",
-              url="https://t.me/Exampur15",
+              url="https://t.me/QuizBot_Exampur",
             ),
         ],
     ]
@@ -305,7 +305,7 @@ def speed_markup(_, chat_id):
         [
             InlineKeyboardButton(
                 text=f"⛦ ᴊᴏɪɴ ⛦",
-              url="https://t.me/Exampur15",
+              url="https://t.me/QuizBot_Exampur",
             ),
         ],
     ]
