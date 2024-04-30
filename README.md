@@ -1,5 +1,5 @@
 <h2 align="center">
-    ─「 ˹𝐁ʟᴀᴄᴋ ꭙ 𝐌ᴜsɪᴄ˼ ♪」─
+    ─「 ˹𝐒ᴀɪᴋᴏ ꭙ 𝐌ᴜsɪᴄ˼ ♪」─
 
 </h2>
 
@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://te.legra.ph/file/4b91ba6ee72587d382c61.jpg">
+  <img src="https://telegra.ph/file/ca224113f1472fdfa7cd8.jpg">
 </p>
 
 
@@ -26,6 +26,6 @@
 </h3>
 
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/BLACKLOVER15/BLACKOPMUSIC"> <img src="https://te.legra.ph/file/4b91ba6ee72587d382c61.jpg" width="520" height="198.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/BLACKLOVER15/BLACKOPMUSIC"> <img src="https://telegra.ph/file/a81e6bec1b7d89f0b845c.jpg" width="520" height="198.45"/></a></p>
 ━━━━━━━━━━━━━━━━━━━━
 
