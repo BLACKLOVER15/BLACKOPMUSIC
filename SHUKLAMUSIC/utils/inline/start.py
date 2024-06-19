@@ -35,7 +35,7 @@ def private_panel(_):
         [
             InlineKeyboardButton(text="🍬 sᴜᴘᴘᴏꝛᴛ 🍬", url=config.SUPPORT_CHAT),
             InlineKeyboardButton(text="🍹 ᴜᴘᴅᴀᴛᴇ 🍹", url=config.SUPPORT_CHANNEL),
-            InlineKeyboardButton(text="🎖ᴏᴡɴᴇʀ🎖", url=f"https://t.me/DEWANA_HOON"),
+            InlineKeyboardButton(text="🎖ᴏᴡɴᴇʀ🎖", url=f"https://t.me/VENOM_PRATAP"),
         ],
         [
             InlineKeyboardButton(text="🏩 ʜᴇʟᴘ ᴧиᴅ ᴄᴏᴍᴍᴧɴᴅs 🏩", callback_data="settings_back_helper")
